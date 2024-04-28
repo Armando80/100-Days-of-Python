@@ -11,4 +11,10 @@ print("what word describes burnes food? >", myFavoriteBurnedFood)
 print("Name a DIY item", myFavoriteHouseholdItem)
 print()
 print("MENU")
-print(myFavoriteCookingMethod, myFavoriteFood, "with", myFavoriteBurnedFood, myFavoritePlant, "ona bed of", myFavoriteHouseholdItem)
+print(myFavoriteCookingMethod, 
+      myFavoriteFood, "with", 
+      myFavoriteBurnedFood, 
+      myFavoritePlant, 
+      "ona bed of", 
+      myFavoriteHouseholdItem
+      )
