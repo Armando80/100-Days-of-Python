@@ -12,10 +12,10 @@ while True:
         print("Too low")
     elif myNumber < yourNumber:
         print("Too higth")
-    elif myNumber > 1000000:
+    elif yourNumber > 1000000:
         print("your number is too high than 1 million")
         exit()
-    elif myNumber < 0:
+    elif yourNumber < 0:
         exit()
     else:
         continue
